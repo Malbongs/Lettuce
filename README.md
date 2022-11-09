@@ -32,7 +32,7 @@ SNS 프로젝트 기획 하였습니다. ex)facebook,instargram
 
 ## 🎨 초기 모델링
 <p align="center">
-<img width="100%" alt="스크린샷 2022-11-07 16 31 37" src="https://user-images.githubusercontent.com/99636339/200251370-d61b9236-a6ba-4d0e-9a37-3d40bf7fb0ac.png">
+<img width="100%" alt="스크린샷 2022-11-07 16 31 37" src="https://user-images.githubusercontent.com/99636339/200742211-76c9f078-4710-4182-9aa8-e847d5bc751e.png">
 </p><br>
 
 ## 🧭 DB 설계도
